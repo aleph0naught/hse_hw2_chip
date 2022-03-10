@@ -65,16 +65,16 @@ GC состав похож на реплики:
 
 ### Пересечение пиков 1 реплики (...BBJ) с пиками ENCODE
 
-![image](Intervene_venn_BBJ_1.pdf)
+![image](img/Intervene_venn_BBJ_1.jpg)
 
 ### Пересечение пиков ENCODE с пиками 1 реплики (...BBJ)
 
-![image](Intervene_venn_BBJ_2.pdf)
+![image](img/Intervene_venn_BBJ_2.jpg)
 
 ### Пересечение пиков 2 реплики (...BBK) с пиками ENCODE
 
-![image](Intervene_venn_BBK_1.pdf)
+![image](img/Intervene_venn_BBK_1.jpg)
 
 ### Пересечение пиков ENCODE с пиками 2 реплики (...BBK)
 
-![image](Intervene_venn_BBK_2.pdf)
+![image](img/Intervene_venn_BBK_2.jpg)
