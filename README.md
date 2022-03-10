@@ -1,9 +1,9 @@
 # hse_hw2_chip
-## Анализ FastQC
 
 Ссылка на ноутбук:
 https://colab.research.google.com/drive/1dwZpZMXMo6V1oaDVtOIkrf4FZwGDW3jO?usp=sharing
 
+## Анализ FastQC
 ### 1 реплика (ENCFF000BBJ)
 ![image](img/BBJ_fastqc_1.png)
 
